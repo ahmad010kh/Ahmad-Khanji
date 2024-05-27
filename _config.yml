@@ -1,5 +1,5 @@
 title: Ahmad Khanji
-logo: /assets/img/headshot_circle.png  style="border-radius: 50%; width: 150px; height:n150px;">
+logo: /assets/img/headshot_circle.png    <img src ="img/headshot_circle.png"  style="border-radius: 50%; width: 150px; height:n150px;">
 #description: ------
 #show_downloads: true
 theme: jekyll-theme-minimal
