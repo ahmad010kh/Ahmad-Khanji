@@ -1,17 +1,17 @@
 # Ahmad-Khanji
 
-###Education
-Information Technologt |Bachelor
+### Education
+Information Technology |Bachelor
 
-###Technical Skills
+### Technical Skills
 
-programming languages : Html, CSS, javascript,C#
-Software : Visual studio , VS code , Cisco packet tracer, Android studio
+programming languages: HTML, CSS, javascript, C#
+Software: Visual Studio, VS Code, Cisco packet tracer, Android studio
 
-###project
+### Project
 auction website System
 
-###Soft Skills
+### Soft Skills
 hard working
 dedication
 Teamwork
